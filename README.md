@@ -1,7 +1,7 @@
 **Tarea Clase 02/10/2026**
 # Trabajo Práctico POO - Unidad IV
 **Alumno** Francisco López
-INF-195-OPTATIVO I (Python lenguaje I) - Universidad Americana
+ OPTATIVO I (Python lenguaje I) - Universidad Americana
 
 ## Ejercicios
 
